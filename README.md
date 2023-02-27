@@ -48,13 +48,13 @@
   <a href="https://gitee.com/Clarice0997" target="_blank">
     <img alt="Gitee" src="https://img.shields.io/badge/Gitee-C71D23.svg?&style=for-the-badge&logo=Gitee&logoColor=white" />
   </a>
-  <a href="clarice09975@gmail.com" target="_blank">
+  <a href="mailto:clarice09975@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="1170564057@qq.com" target="_blank">
+  <a href="mailto:1170564057@qq.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/QQ-EB1923?&style=for-the-badge&logo=Tencent+QQ&logoColor=white" />
   </a>
-  <a href="Clarice0997" target="_blank">
+  <a href="weixin://Clarice0997" target="_blank">
     <img alt="WeChat" src="https://img.shields.io/badge/WeChat-11d169?&style=for-the-badge&logo=WeChat&logoColor=white" />
   </a>
 </p>
