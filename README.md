@@ -35,8 +35,8 @@
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1660596061/60852/azuresynapseanalytics.png?1660596061" width="20"/> GitHub Analytics </h3>
 
 <a href="https://github.com/Clarice0997">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Clarice0997&count_private=true&show_icons=true&theme=react" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarice0997&theme=react" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Clarice0997&count_private=true&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarice0997" />
 </a>
 
 <h3>🤝🏻Connect with Me</h3>
