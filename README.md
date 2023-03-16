@@ -2,6 +2,8 @@
 
 <p><img src="https://emojis.slackmojis.com/emojis/images/1643515299/13186/flower.gif?1643515299" width="13"/> Welcome to my page! </br> I'm Clarice, A Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/5372/5372696.png" width="13"/> <b>Fuzhou, China</b>.</p>
 
+  <div>  <img align="center" style='margin-bottom:8px' height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=clarice0997&" alt="clarice0997" /></div>
+
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643514467/4500/xcode.png?1643514467" width="20"/> Things I code with </h3>
 
 <p>
@@ -22,6 +24,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-222222?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ce4e35?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
+  <img alt="c" src="https://img.shields.io/badge/-C-1d589b?style=flat-square&logo=C&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="YOLO" src="https://img.shields.io/badge/-YOLO-222222?style=flat-square&logo=YOLO&logoColor=white" />
   <img alt="WeChat" src="https://img.shields.io/badge/-WeChat-222222?style=flat-square&logo=WeChat&logoColor=white" />
@@ -37,6 +40,7 @@
 <a href="https://github.com/Clarice0997">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Clarice0997&count_private=true&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarice0997" />
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clarice0997&margin-w=7" alt="clarice0997" /></a> </p>
 </a>
 
 <h3>🤝🏻Connect with Me</h3>
